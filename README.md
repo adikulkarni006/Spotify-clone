@@ -17,4 +17,4 @@ This is a simple Spotify-like music player created using HTML, CSS, and JavaScri
 - Open `index.html` in your browser
 
 ## Author
-- [Anushka (adikulkarni006)](https://github.com/adikulkarni006)
+- [Advait (adikulkarni006)](https://github.com/adikulkarni006)
